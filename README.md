@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 Place `daraz_dataset.csv` in the repository root and run `notebooks/absa_roman_urdu.ipynb`. The raw review file is not redistributed until per-row provenance and redistribution terms are documented.
 
-This is a cross-domain, cross-lingual baselineâ€”not a production sentiment system.
+This is a cross-domain, cross-lingual baseline - not a production sentiment system.
 
